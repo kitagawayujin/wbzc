@@ -27,7 +27,7 @@ url: https://kitagawayujin.github.io/wbzc/
 avatar: https://github.com/kitagawayujin/mardo/blob/master/images/QQ%E5%9B%BE%E7%89%8720220822235716.png?raw=true
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://github.com/kitagawayujin/wbzc/blob/master/images/usa_016.png?raw=true
 
 
 # 菜单中的按钮
@@ -42,7 +42,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 10
+paginate: 12
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
