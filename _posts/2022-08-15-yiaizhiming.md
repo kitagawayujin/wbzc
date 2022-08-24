@@ -4,7 +4,7 @@ title: 【睡魔/THE SANDMAN】以爱之名（柯林斯/墨菲斯，pwp，完）
 date: 2022-08-15
 Author: 望北之川
 categories: 
-tags: [睡魔,pwp]
+tags: [pwp]
 comments: true
 --- 
 Summary：柯林斯在伯吉斯家的地下室满足了自己的欲望。但最终他还是绝望了，毕竟欲望和绝望是一对双胞胎，它们总是相携而至。 
