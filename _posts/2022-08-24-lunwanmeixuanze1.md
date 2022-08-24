@@ -4,7 +4,7 @@ title: 【TSN/ME】论完美选择 1
 date: 2022-08-24
 Author: 望北之川
 categories: 
-tags: [TSN,ME,论完美选择]
+tags: [论完美选择]
 comments: true
 --- 
 Summary：马克和KAWA资本的人睡了——在他穿着睡衣见风投，并且用“KAWA资本不该投资Facebook的十个理由”的PPT狠狠羞辱了一番KAWA资本后。
