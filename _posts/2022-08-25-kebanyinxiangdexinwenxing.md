@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【TSN/ME】刻板印象的新闻性（EABO）<完>
+title: 【TSN/ME】刻板印象的新闻性（EABO）（完）（刻板印象系列3）
 date: 2022-08-25
 Author: 望北之川
 categories: 
