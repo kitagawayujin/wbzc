@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【TSN/ME】刻板印象的误导性（EABO）完（刻板印象系列2）
+title: 【TSN/ME】刻板印象的误导性（EABO）（完）（刻板印象系列2）
 date: 2021-06-08
 Author: 望北之川
 categories: 
