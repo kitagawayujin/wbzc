@@ -2,7 +2,6 @@
 layout: post
 title: 【TSN/ME】刻板印象的致命性（完）
 Author: 望北之川
-date： 2022-08-25
 categories: 
 tags: [刻板印象系列]
 comments: true
