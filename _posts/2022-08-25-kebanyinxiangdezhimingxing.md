@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【TSN/ME】刻板印象的致命性（完）
+title: 【TSN/ME】刻板印象的致命性（完）（刻板印象系列1）
 Author: 望北之川
 categories: 
 tags: [刻板印象系列]
