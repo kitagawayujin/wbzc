@@ -7,7 +7,7 @@ categories:
 tags: [pwp]
 comments: true
 --- 
-Eduardo想要成为四骑士之一，自愿让Daniel潜规则他，然而一夜之后，Daniel却食言了。
+summary：Eduardo想要成为四骑士之一，自愿让Daniel潜规则他，然而一夜之后，Daniel却食言了。
 
 ## 1
 
