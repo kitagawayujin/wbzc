@@ -8,6 +8,8 @@ tags: [pwp]
 comments: true
 --- 
 
+summary：Mark在极端的愤怒中第一次用了Dom的权力和优势，命令Eduardo留下并且去洗澡把自己收拾干净——在Eduardo拎起自己那个湿透的单肩包，气冲冲地准备离开帕罗奥图的公寓时。
+<br><br/>
 
 “我要工具。”Mark敲开Sean的房门。
 
