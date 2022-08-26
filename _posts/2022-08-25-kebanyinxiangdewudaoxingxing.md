@@ -8,6 +8,7 @@ tags: [刻板印象系列]
 comments: true
 ---
 
+summary：如果Eduardo是omega，那这个故事就变成Mark这个渣A浪子回头金不换；如果Mark是omega，那他就是那个“被爱情深深伤害了的情深似海的alpha”。可如果他是alpha，Mark是enigma，那对不起了，人们提起他，只会是“Eduardo Saverin？哦，那个被骗财骗色的傻子alpha”。所以Eduardo决定先声夺人：“Mark是我的omega！”
 
 
 #### 【1】
