@@ -7,7 +7,7 @@ categories:
 tags: [夜行者之心]
 comments: true
 --- 
-Summary：Steven因为长了一张和Marc一样的脸而被绑架了。
+Summary：Steven并不知道自己还有两个同胞兄弟，直到因为和Marc有张一模一样的脸被绑架。但是在这很早之前，Marc和Jake已经在默默关注着他了，因为他是他们混乱人生中唯一的亮光。
 <br><br/>
 <br><br/>
 
